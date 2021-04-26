@@ -19,16 +19,16 @@ I'm Amanda Ordoñez, I worked as a researcher and I self learned how to program 
 
 <img src="https://www.flaticon.es/svg/static/icons/svg/3069/3069262.svg" alt="Chicken" height=40px> [Why did the chicken cross the road?](https://amanda-oc8.github.io/Why-did-the-chicken-cross-the-road/)
 
-<img src="https://www.flaticon.es/svg/vstatic/svg/25/25870.svg?token=exp=1619429546~hmac=a571bcd372488c690d03d22d6195c488" alt="Bear and arbutus" height=40px>[Monumentos activos](https://monumentos-activos.herokuapp.com/)
+<img src="https://www.flaticon.es/svg/vstatic/svg/25/25870.svg?token=exp=1619429546~hmac=a571bcd372488c690d03d22d6195c488" alt="Bear and arbutus" height=40px> [Monumentos activos](https://monumentos-activos.herokuapp.com/)
 
-<img src="https://www.flaticon.es/svg/static/icons/svg/2534/2534513.svg" alt="Kraken" height=40px>[Kraken World Studios](https://github.com/Amanda-OC8/kraken2)
+<img src="https://www.flaticon.es/svg/static/icons/svg/2534/2534513.svg" alt="Kraken" height=40px> [Kraken World Studios](https://github.com/Amanda-OC8/kraken2)
 
 
 
 ### More:
-<img src="https://www.flaticon.com/svg/vstatic/svg/3999/3999864.svg?token=exp=1619430121~hmac=2f10a307b0c2f68dd3254d408c0ae16b" alt="Web Portfolio" height=30px> [My portfolio](https://amanda-portfolio.netlify.app/)
+<img src="https://www.flaticon.com/svg/vstatic/svg/3999/3999864.svg?token=exp=1619430121~hmac=2f10a307b0c2f68dd3254d408c0ae16b" alt="Web Portfolio" height=35px> [My portfolio](https://amanda-portfolio.netlify.app/)
 
-<a href="https://www.linkedin.com/in/amanda-ordonez-cencerrado/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo.svg" height=40px></a>
+<a href="https://www.linkedin.com/in/amanda-ordonez-cencerrado/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo.svg" height=30px></a>
 
 
 
