@@ -13,7 +13,7 @@ I'm Amanda Ordoñez, I worked as a researcher and I self learned how to program 
 - :gb: Professional proficency
 
 ## Technologies
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo and wordmark.svg" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo and wordmark.svg" height=50px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/256px-Javascript-shield.svg.png" alt="Javascript-shield" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap logo.svg" height=40px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js logo.svg" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MongoDB_Logo.png/1200px-MongoDB_Logo.png" alt="MongoDB Logo.png" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React.svg" height=40px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo and wordmark.svg" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo and wordmark.svg" height=50px>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/256px-Javascript-shield.svg.png" alt="Javascript-shield" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap logo.svg" height=40px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js logo.svg" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MongoDB_Logo.png/1200px-MongoDB_Logo.png" alt="MongoDB Logo.png" height=50px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React.svg" height=40px><img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="Gatsby.svg" height=40px>
 
 ## Projects:
 <center>
@@ -25,6 +25,7 @@ I'm Amanda Ordoñez, I worked as a researcher and I self learned how to program 
 
 
 ### More:
+[My portfolio](https://amanda-portfolio.netlify.app/)
 
 <a href="https://www.linkedin.com/in/amanda-ordonez-cencerrado/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo.svg" height=40px></a>
 
