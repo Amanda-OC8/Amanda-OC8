@@ -2,7 +2,7 @@
 I'm Amanda Ordoñez, I worked as a researcher and I self learned how to program in MATLAB. Then, I discovered that I love code. I studied the Full Stack Web Developmpent Bootcamp on Iron Hack, where I learned the MERN Stack. Now, I'm searching for my first web developer work while I keep learning about other stacks.
 
 
-- 🌱 I’m currently learning Python and React 
+- 🌱 I’m currently learning React 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: like syfy and time travel stories. 
 
